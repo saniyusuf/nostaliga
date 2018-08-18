@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "name": "Jollof Rice",
+    "image": "http://sisijemimah.com/wp-content/uploads/2015/06/IMG_7971.jpg",
+    "image_credit": "http://sisijemimah.com/2015/06/19/party-jollof-rice-nigerian",
+    "countries": [
+      "Nigeria",
+      "Ghana",
+      "Senegal",
+      "Sierra-Leone"
+    ],
+    "ingredients": [
+      "Rice",
+      "Plantain",
+      "Tomatoes"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Kosai/Akara",
+    "image": "https://i1.wp.com/www.onegreenplanet.org/wp-content/uploads/2016/02/akara-nigerian-fried-bean-balls.jpg",
+    "image_credit": "https://www.onegreenplanet.org/vegan-recipe/akara-nigerian-fried-bean-balls",
+    "countries": [
+      "Nigeria"
+    ],
+    "ingredients": [
+      "Beans"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Masa/Waina",
+    "image": "https://i2.wp.com/www.1qfoodplatter.com/wp-content/uploads/2016/10/Waina-Masa-3.jpg",
+    "image_credit": "https://www.1qfoodplatter.com/how-to-make-masa-or-waina/",
+    "countries": [
+      "Nigeria"
+    ],
+    "ingredients": [
+      "Rice"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Yamarita",
+    "image": "http://owanbeparries.com/wp-content/uploads/2017/06/yamarita.jpg",
+    "image_credit": "http://owanbeparries.com/how-to-prepare-the-nigerian-yamarita/",
+    "countries": [
+      "Nigeria"
+    ],
+    "ingredients": [
+      "Yam",
+      "Egg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Nkwobi",
+    "image": "https://1.bp.blogspot.com/-SmzQGckBPRk/VvRplV-765I/AAAAAAAATC0/zi7DPbvA72MghVNn-bcO1MRY3EZabpw9A/s1600/nkwobi%2Brecipe%2Bby%2Bsisiyemmie%2Bblog%2B.JPG",
+    "image_credit": "http://www.sisiyemmie.com/2016/03/how-to-make-delicious-nkwobi.html",
+    "countries": [
+      "Nigeria"
+    ],
+    "ingredients": [
+      "Meat"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Moi Moi",
+    "image": "https://static.pulse.ng/img/incoming/crop4319575/5534673112-chorizontal-w1200-h630/How-to-make-moin-moin.jpg",
+    "image_credit": "https://static.pulse.ng/img/incoming/crop4319575/5534673112-chorizontal-w1200-h630/How-to-make-moin-moin.jpg",
+    "countries": [
+      "Nigeria"
+    ],
+    "ingredients": [
+      "Beans"
+    ]
+  }
+]

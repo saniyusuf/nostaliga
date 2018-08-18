@@ -4,11 +4,17 @@
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
     <ion-title>
-      Home
+      Nostalgic Foods
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
+  <ion-card *ngFor="let food of (foodList | async)">
+    <ion-img [src]="food.image"></ion-img>
 
+    <ion-card-content>
+      <ion-card-title>{{food.name}}</ion-card-title>
+    </ion-card-content>
+  </ion-card>
 </ion-content>
